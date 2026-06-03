@@ -1,0 +1,42 @@
+SSID:
+汉鼎商务酒店
+    协议:	Wi-Fi 5 (802.11ac)
+    安全类型:	开放
+    制造商:	Intel Corporation
+    描述:	Intel(R) Wi-Fi 6E AX211 160MHz
+    驱动程序版本:	23.170.1.1
+    网络波段(通道):	5 GHz (149)
+    聚合链接速度(接收/传输):	325/390 (Mbps)
+    本地链接 IPv6 地址:	fe80::7715:373a:9c2f:1c4f%5
+    IPv4 地址:	192.168.2.152
+    IPv4 默认网关：	192.168.2.1
+    IPv4 DNS 服务器:	1.1.1.1 (未加密)
+    物理地址(MAC):	BC:F1:05:78:11:CB
+
+
+ * AVAILABLE CONTEXT BINDINGS:
+ *   COLUMNS     List<DataColumn>
+ *   ROWS        Iterable<DataRow>
+ *   OUT         { append() }
+ *   FORMATTER   { format(row, col); formatValue(Object, col); getTypeName(Object, col); isStringLiteral(Object, col); }
+ *   TRANSPOSED  Boolean
+ * plus ALL_COLUMNS, TABLE, DIALECT
+
+ * wher
+ USB4 主机路由器 1:- 拓扑 ID: 0:0:0:0:0:0:0
+ 
+ 活动路由器
+ 制造商名称: INTEL
+ 型号名称: Gen12
+ 域 ID: 0x4d0001
+ 设备实例 ID: PCI\VEN_8086&DEV_A73E&SUBSYS_11112222&REV_00&USB4_MS_CM\3&2411e6fe&1&6A
+ 拓扑 ID: 0:0:0:0:0:0:0
+ Silicon 供应商 ID: 0x8087
+ Silicon 产品 ID: 0xa73e
+ Silicon 修订: 0
+ 固件版本: 22.12
+ USB4 版本: 1.0
+ DP IN 适配器总计: 2
+ 隧道 DP IN 适配器: 0
+ DP IN 适配器不可用: 0
+ ----------------------------------------------------------

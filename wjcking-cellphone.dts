@@ -1,0 +1,9 @@
+/dts-v1/;
+WJCKING-HP COMPUTER
+	设备名称	WJCKING-COMPAQ
+	处理器	Intel(R) Core(TM) 7 240H   2.50 GHz
+	机带 RAM	32.0 GB (31.6 GB 可用)
+	设备 ID	8D0EF085-FF90-4FED-BFEB-CE53A99188E6
+	产品 ID	00342-32069-42866-AAOEM
+	系统类型	64 位操作系统, 基于 x64 的处理器
+	笔和触控	没有可用于此显示器的笔或触控输入
