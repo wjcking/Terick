@@ -11,5 +11,5 @@ Begin
     
     With.FirstName:LastName
         Nvarchar.Check "Both
-    End
+    Compare
 End
