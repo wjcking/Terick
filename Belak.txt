@@ -1,0 +1,15 @@
+Capo
+
+CREATE.PROCEDURE:Sales.GetCustomerCompany
+    LastName.Nvarchar:NULL
+    FirstName.Nvarchar:NULL
+Affect //AS a CREATE.PROCEDURE end
+Begin
+    With.LastName
+        Nvarchar.Check
+    End
+    
+    With.FirstName:LastName
+        Nvarchar.Check "Both
+    End
+End
