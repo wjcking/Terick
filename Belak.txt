@@ -1,14 +1,22 @@
 Capo
+SELECT DATABASEPROPERTYEX(DB_NAME(), 'IsOptimizedLockingOn')
+AS is_optimized_locking_enabled;
 
-CREATE.PROCEDURE:Sales.GetCustomerCompany
-    LastName.Nvarchar:NULL
-    FirstName.Nvarchar:NULL
-Affect //AS a CREATE.PROCEDURE end
-Begin
+PROCEDURE:Affect
+    LastName.Nvarchar
+    FirstName.Nvarchar
+Affect //AS
+//Isn't begin
     With.LastName
         Nvarchar.Check
     End
-    
+Finished
+
+PROCEDURE:CoupleAffect
+    LastName.Nvarchar
+    FirstName.Nvarchar
+Affect
+Begin
     With.FirstName:LastName
         Nvarchar.Check "Both
     Compare
